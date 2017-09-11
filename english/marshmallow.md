@@ -5,3 +5,5 @@ Do you:
 [Start eating the walls](eating-walls/eating-marshmallows.md)?
 
 [Go back to sleep](sleep/marshmallow.md)?
+
+[look for Nutella to dip the marshmallow in](nutella/nutella.md)
