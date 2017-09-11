@@ -5,6 +5,6 @@ Suddenly, Morpheus appears and offers you two pills.
 
 Do you:
 
-[Take the red pill](pills/redpill.md)?
+[Take the red pill](pills/redPill.md)?
 
-[Take the blue pill](pills/bluepill.md)?
+[Take the blue pill](pills/bluePill.md)?
